@@ -5,6 +5,8 @@
 exe 파일 링크 ↘
 
 https://drive.google.com/file/d/1-_Fslm_zV73IH58BfhgWVwhzluEXd9av/view?usp=drive_link
+
+
 ---
 데이터 분석을 하다보니 이런 것도 있더라.. 싶습니다.
 
